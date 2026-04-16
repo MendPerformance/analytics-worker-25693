@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: analytics-worker-25693
+  namespace: MendPerformance
+  annotations:
+    github.com/project-slug: MendPerformance/analytics-worker-25693
+spec:
+  type: service
+  lifecycle: unknown
+  owner: mend.io
